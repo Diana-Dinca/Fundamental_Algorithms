@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\diana\Desktop\AF\Lab3\Lab3\main.cpp(304,30): warning C4101: 'v4': unreferenced local variable
+C:\Users\diana\Desktop\AF\Lab3\Lab3\main.cpp(358,30): warning C4101: 'v4': unreferenced local variable
+C:\Users\diana\Desktop\AF\Lab3\Lab3\main.cpp(358,12): warning C4101: 'v1': unreferenced local variable
+C:\Users\diana\Desktop\AF\Lab3\Lab3\main.cpp(402,30): warning C4101: 'v4': unreferenced local variable
+C:\Users\diana\Desktop\AF\Lab3\Lab3\main.cpp(402,12): warning C4101: 'v1': unreferenced local variable
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 477 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab3.vcxproj -> C:\Users\diana\Desktop\AF\Lab3\x64\Release\Lab3.exe

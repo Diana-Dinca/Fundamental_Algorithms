@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\diana\Desktop\AF\Lab2_02\Lab2_02\main.cpp(116,24): warning C4101: 'v3': unreferenced local variable
+C:\Users\diana\Desktop\AF\Lab2_02\Lab2_02\main.cpp(116,18): warning C4101: 'v2': unreferenced local variable
+  Lab2_02.vcxproj -> C:\Users\diana\Desktop\AF\Lab2_02\x64\Debug\Lab2_02.exe

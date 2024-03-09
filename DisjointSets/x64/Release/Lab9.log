@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\diana\Desktop\AF\Lab9\Lab9\main.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\diana\Desktop\AF\Lab9\Lab9\main.cpp(73,9): warning C4101: 'i': unreferenced local variable
+  Generating code
+  358 of 584 functions (61.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    34 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab9.vcxproj -> C:\Users\diana\Desktop\AF\Lab9\x64\Release\Lab9.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\diana\Desktop\AF\Lab3\Lab3\main.cpp(240,35): warning C4101: 'v5': unreferenced local variable
+  Lab3.vcxproj -> C:\Users\diana\Desktop\AF\Lab3\x64\Debug\Lab3.exe

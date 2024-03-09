@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\diana\Desktop\anul2\sem1\AF\Lab5_02\Lab5_02\main.cpp(141,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diana\Desktop\anul2\sem1\AF\Lab5_02\Lab5_02\main.cpp(146,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diana\Desktop\anul2\sem1\AF\Lab5_02\Lab5_02\main.cpp(222,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diana\Desktop\anul2\sem1\AF\Lab5_02\Lab5_02\main.cpp(227,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diana\Desktop\anul2\sem1\AF\Lab5_02\Lab5_02\main.cpp(255,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\diana\Desktop\anul2\sem1\AF\Lab5_02\Lab5_02\main.cpp(258,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\diana\Desktop\anul2\sem1\AF\Lab5_02\Lab5_02\main.cpp(261,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\diana\Desktop\anul2\sem1\AF\Lab5_02\Lab5_02\main.cpp(264,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\diana\Desktop\anul2\sem1\AF\Lab5_02\Lab5_02\main.cpp(267,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lab5_02.vcxproj -> C:\Users\diana\Desktop\anul2\sem1\AF\Lab5_02\x64\Debug\Lab5_02.exe

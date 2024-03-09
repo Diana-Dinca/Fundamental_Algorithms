@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\diana\Desktop\AF\Lab9\Lab9\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\diana\Desktop\AF\Lab9\Lab9\main.cpp(66,9): warning C4101: 'i': unreferenced local variable
+  Lab9.vcxproj -> C:\Users\diana\Desktop\AF\Lab9\x64\Debug\Lab9.exe

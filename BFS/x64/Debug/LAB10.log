@@ -1,0 +1,4 @@
+﻿  bfs.cpp
+C:\Users\diana\Desktop\AF\Lab10\LAB10\Profiler.h(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\diana\Desktop\AF\Lab10\LAB10\Profiler.h(9,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  LAB10.vcxproj -> C:\Users\diana\Desktop\AF\Lab10\x64\Debug\LAB10.exe
